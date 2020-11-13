@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SmartFoxWorkToolsProjectState">
+    <option name="branch" value="master" />
+    <option name="gitUrl" value="https://github.com/yangzhouhu/shardingsphere-springboot.git" />
+    <option name="localBranch" value="master" />
+    <option name="revision" value="ea85a8299003800ffb0e010863941c83c82435ee" />
+  </component>
+</project>
